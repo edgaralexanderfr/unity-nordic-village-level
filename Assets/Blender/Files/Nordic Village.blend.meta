@@ -20,6 +20,8 @@ ModelImporter:
     100028: Bone_008
     100030: Bone_009
     100032: Grass
+    100034: Fence1
+    100036: Fence2
     400000: //RootNode
     400002: Rock1
     400004: Tree1
@@ -37,6 +39,8 @@ ModelImporter:
     400028: Bone_008
     400030: Bone_009
     400032: Grass
+    400034: Fence1
+    400036: Fence2
     2100000: Stone
     2100002: Wood
     2100004: Grass
@@ -44,15 +48,21 @@ ModelImporter:
     2300002: Tree1
     2300004: Tree2
     2300006: Rock2
+    2300008: Fence1
+    2300010: Fence2
     3300000: Rock1
     3300002: Tree1
     3300004: Tree2
     3300006: Rock2
+    3300008: Fence1
+    3300010: Fence2
     4300000: Rock1
     4300002: Tree2
     4300004: Tree1
     4300006: Rock2
     4300008: Grass
+    4300010: Fence1
+    4300012: Fence2
     7400000: Default Take
     7400002: Wind
     9500000: //RootNode
