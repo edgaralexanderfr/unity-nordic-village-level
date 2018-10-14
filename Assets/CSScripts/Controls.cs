@@ -33,11 +33,11 @@ public class Controls : MonoBehaviour {
 			gameObject.transform.Translate(Vector3.right * Time.deltaTime * this.speed);
 		}
 
-		if (Input.GetKey(KeyCode.J)) {
+		if (Input.GetKey(KeyCode.LeftArrow)) {
 			gameObject.transform.Rotate(Vector3.down * Time.deltaTime * this.rotationSpeed);
 		}
 
-		if (Input.GetKey(KeyCode.L)) {
+		if (Input.GetKey(KeyCode.RightArrow)) {
 			gameObject.transform.Rotate(Vector3.up * Time.deltaTime * this.rotationSpeed);
 		}
 
